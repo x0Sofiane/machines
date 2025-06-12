@@ -39,24 +39,6 @@ Entrées : A, B, C (conditions de sélection et disponibilité)
 Sortie : Z (distribution)
 Optimisation via Karnaugh pour obtenir une équation minimale
 
-Composants Utilisés
---------------------
-
-- Afficheur 7 segments : [Lien composant](https://example.com/7segment)
-- Bascule JK : [Lien composant](https://example.com/jk-flipflop)
-- Boutons poussoirs : [Lien composant](https://example.com/button)
-- LEDs d’état : [Lien composant](https://example.com/led)
-- Alimentation 5V : [Lien composant](https://example.com/5v-power)
-
-(⚠️ Remplacer les liens par ceux réellement utilisés dans votre projet)
-
-Prérequis Matériel et Logiciel
-------------------------------
-
-- Logiciel de simulation logique (Logisim, Proteus, Tinkercad Circuits…)
-- Breadboard + composants réels (si montage physique)
-- Compréhension des circuits combinatoires et séquentiels
-
 Organisation du Projet
 ----------------------
 
